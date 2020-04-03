@@ -23,12 +23,18 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://media.giphy.com/media/M971ZRjjfxQukJGbfF/giphy.gif
-https://media.giphy.com/media/VJwzlO0vj3AguEmwiN/giphy.gif
-https://media.giphy.com/media/YnMlLm2rWpp2zw2j9N/giphy.gif
-https://media.giphy.com/media/UWVy77Sld97khP6V2f/giphy.gif
-https://media.giphy.com/media/JQkIfMQnWt0ZerNema/giphy.gif
-https://media.giphy.com/media/ftSmClt3xo50jPcpsc/giphy.gif
+https://media.giphy.com/media/M971ZRjjfxQukJGbfF/giphy.gif ;
+
+https://media.giphy.com/media/VJwzlO0vj3AguEmwiN/giphy.gif ;
+
+https://media.giphy.com/media/YnMlLm2rWpp2zw2j9N/giphy.gif ;
+
+https://media.giphy.com/media/UWVy77Sld97khP6V2f/giphy.gif ;
+
+https://media.giphy.com/media/JQkIfMQnWt0ZerNema/giphy.gif ;
+
+https://media.giphy.com/media/ftSmClt3xo50jPcpsc/giphy.gif ;
+
 https://media.giphy.com/media/lMaiWwdHZ8nZFfDKy7/giphy.gif
 
 
