@@ -1,6 +1,36 @@
-<p align="center" >
-  <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
-</p>
+# Twitter - Part I
+
+This is a basic twitter app to read your tweets.
+
+Time spent: 8 hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+
+The following **bonus** features are implemented:
+
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+https://media.giphy.com/media/M971ZRjjfxQukJGbfF/giphy.gif
+https://media.giphy.com/media/VJwzlO0vj3AguEmwiN/giphy.gif
+https://media.giphy.com/media/YnMlLm2rWpp2zw2j9N/giphy.gif
+https://media.giphy.com/media/UWVy77Sld97khP6V2f/giphy.gif
+https://media.giphy.com/media/JQkIfMQnWt0ZerNema/giphy.gif
+https://media.giphy.com/media/ftSmClt3xo50jPcpsc/giphy.gif
+https://media.giphy.com/media/lMaiWwdHZ8nZFfDKy7/giphy.gif
+
 
 [![Build Status](https://travis-ci.org/AFNetworking/AFNetworking.svg)](https://travis-ci.org/AFNetworking/AFNetworking)
 [![codecov.io](https://codecov.io/github/AFNetworking/AFNetworking/coverage.svg?branch=master)](https://codecov.io/github/AFNetworking/AFNetworking?branch=master)
